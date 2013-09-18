@@ -1,0 +1,34 @@
+.css-sprites li{
+	margin: 5px;
+	list-style: none;
+}
+
+.first{
+	width: 32px;
+	height: 32px;
+	background: url(file://localhost/Users/RU-017/Projects/images/result-sprite.png) 0 0;
+}
+
+.second{
+	width: 32px;
+	height: 32px;
+	background: url(file://localhost/Users/RU-017/Projects/images/result-sprite.png) -32px 0;
+}
+
+.third{
+	width: 32px;
+	height: 32px;
+	background: url(file://localhost/Users/RU-017/Projects/images/result-sprite.png) -64px 0;
+}
+
+.fourth{
+	width: 32px;
+	height: 32px;
+	background: url(file://localhost/Users/RU-017/Projects/images/result-sprite.png) -96px 0;
+}
+
+.last{
+	width: 32px;
+	height: 32px;
+	background: url(file://localhost/Users/RU-017/Projects/images/result-sprite.png) -128px 0;
+}
